@@ -1,0 +1,26 @@
+Made by: Anthony Kevin Oktavius - 2301862866
+Welcome to my another console-based game app where you can play pacman game like what Namco produced in the year 1980s!
+
+*****************************************************************************************
+
+Here's the instructions on how to play pacman:
+
+1) Use w (up), a (left), s(down), d(right) to control Pacman! Your pacman is marked as '$'!
+2) Eat all dots that are in the field that are marked as '.'! When you eat all the dots, your win the game!
+3) Don't hit by any enemy in the field! If you do, the game is over!
+
+Enemy Description:
+
+(;) He's a smart ghost who knows location of the player, he uses BFS techique to find the player's position. Watch out for this one! 
+If you don't know what that means, google it online!
+
+(?) He just wanders randomly every time. That's it.
+
+(%) He's a bashful ghost because he keeps moving if he sees you till the dead end found!
+
+Good luck and have fun!
+*****************************************************************************************
+
+Press enter key to continue!
+
+
