@@ -5,7 +5,7 @@ Welcome to my another console-based game app where you can play pacman game like
 
 Here's the instructions on how to play pacman:
 
-1) Use w (up), a (left), s(down), d(right) to control Pacman! Your pacman is marked as '$'!
+1) Use w (up), a (left), s (down), d (right) to control Pacman! Your pacman is marked as '$'!
 2) Eat all dots that are in the field that are marked as '.'! When you eat all the dots, your win the game!
 3) Don't hit by any enemy in the field! If you do, the game is over!
 
