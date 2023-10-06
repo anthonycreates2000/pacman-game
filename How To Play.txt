@@ -1,5 +1,5 @@
 Made by: Anthony Kevin Oktavius - 2301862866
-Welcome to my another console-based game app where you can play pacman game like what Namco produced in the year 1980s!
+Welcome to my another console-based game app where you can play pacman game like what Namco produced in 1980s!
 
 *****************************************************************************************
 
